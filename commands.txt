@@ -1,1 +1,4 @@
-git status
+git status  --> current status
+git diff --> the my changes
+git add . --> add files in staging area
+git commit -m "Here message" --> commits changes
